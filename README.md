@@ -1,4 +1,6 @@
-### Hi there 👋, Here is What I'm working on:
+### Hi there 👋
+
+Here is What I'm working on:
 
 - 🔭 I’m currently working on ... Fullstack Web Development
 - 🌱 I’m currently learning ... Go, PostgreSQL, DS&Algo, HTML5, CSS3, JS(ES6), Bootstrap 4, ReactJS
